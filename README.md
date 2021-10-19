@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheRealDodoBird108 AKA Abdelrhman Mersal
+- 👀 I’m interested in Cyber Security and AI
+- 🌱 I’m currently learning Java and python, although I am indermidant in python.
+- 💞️ I’m looking to collaborate in any learning material for anyone who is intrested in programing
+- 📫 You can reach me at my disocrd, DodoBird108#6042 or my email abdelrhmanmersal108@gmail.com
