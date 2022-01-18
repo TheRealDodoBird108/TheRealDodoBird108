@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Java and python, although I am indermidant in python.
 - 💞️ I’m looking to collaborate in any learning material for anyone who is intrested in programing
 - 📫 You can reach me at my disocrd, DodoBird108#6042 or my email abdelrhmanmersal108@gmail.com
+- This is made for GIU Computer Science Students as a summery for what we are taking and also as something for me to keep track of my work on
+-
